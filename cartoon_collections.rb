@@ -30,7 +30,7 @@ end
 
   potentially_cheesy_items.find do |maybe_cheese|
     
-    cheeses_types.include?(maybe_cheese)
+    cheese_types.include?(maybe_cheese)
     
     
   end
