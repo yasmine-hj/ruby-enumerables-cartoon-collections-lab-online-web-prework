@@ -32,6 +32,5 @@ end
     
     cheese_types.include?(maybe_cheese)
     
-    
   end
 end
